@@ -2286,7 +2286,7 @@ html.menu-opened body {
 }
 .banner-wrapper .banner-header h1 {
     margin-bottom: 10px;
-	font-size: 40px;
+	font-size: 33px;
 	font-weight: 600;
 }
 .banner-wrapper .banner-header p {
@@ -2505,6 +2505,10 @@ html.menu-opened body {
 	transition: all 2000ms cubic-bezier(.19,1,.22,1) 0ms;
     width: 100%;
 }
+.doctor{
+	height: 153px;
+}
+
 .doc-img:hover img {
     -webkit-transform: scale(1.15);
     -moz-transform: scale(1.15);
